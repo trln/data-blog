@@ -86,11 +86,11 @@ defaults:
       share: true
 
 # Site Authors
-author: Alison Blaine
-  name: "Alison Blaine"
-  picture: images/bio-photo.jpg
+author: alblaine
+  name: Alison Blaine
+  picture: /images/bio-photo.jpg
   email: ablaine@ncsu.edu
-  twitter:
+  twitter: 
   links:
     - title:
       url:
