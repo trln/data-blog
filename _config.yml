@@ -97,7 +97,7 @@ author:
       icon: fab fa-github-square
     - title: Email
       url: mailto:ablaine@ncsu.edu
-      icon: fab fa-envelope-regular
+      icon: fab fa-envelope
 
 # Footer Links
 footer_links:
