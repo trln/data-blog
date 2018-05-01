@@ -97,7 +97,10 @@ author:
       icon: fab fa-github-square
     - title: Email
       url: mailto:ablaine@ncsu.edu
-      icon: fab fa-envelope
+      icon: fab fa-envelope-square
+    - title: Twitter
+      url: https://www.twitter.com/Bigggggg_Al
+      icon: fab fa-twitter-square
 
 # Footer Links
 footer_links:
