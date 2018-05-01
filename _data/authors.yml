@@ -2,9 +2,13 @@
 # Remove file or replace with your own
 
 alblaine: 
- name: Alison Blaine
- twitter: Bigggggg_Al
- picture: /images/bio-photo.jpg
+  name: Alison Blaine
+  picture: /images/bio-photo.jpg
+  twitter: "@Bigggggg_Al"
+  links: 
+    - title: Twitter
+      url: https://twitter.com/Bigggggg_Al
+      icon: fab fa-twitter-square
 
 
 
