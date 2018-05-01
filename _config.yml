@@ -85,15 +85,15 @@ defaults:
       layout: post
       share: true
 
-# Site Authors
-author: alblaine
+# Site Author
+author:
   name: Alison Blaine
   picture: /images/bio-photo.jpg
   email: ablaine@ncsu.edu
   twitter: 
-  links:
+  links: 
     - title:
-      url:
+      url: 
       icon:
 
 # Footer Links
