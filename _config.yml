@@ -92,9 +92,12 @@ author:
   email: ablaine@ncsu.edu
   twitter: 
   links: 
-    - title:
-      url: 
-      icon:
+    - title: Github
+      url: https://github.com/alblaine
+      icon: fab fa-github-square
+    - title: Email
+      url: mailto:ablaine@ncsu.edu
+      icon: fab fa-envelope-regular
 
 # Footer Links
 footer_links:
