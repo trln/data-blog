@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: jekyll-theme-so-simple
-# remote_theme: mmistakes/so-simple-theme
+#theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "NC Data Interest Group Blog"
 description: "A blog for data professionals to share information, useful tips and all things related to working with data."
@@ -85,11 +85,11 @@ defaults:
       layout: post
       share: true
 
-# Site Author
-author:
-  name:
-  picture:
-  email:
+# Site Authors
+author: Alison Blaine
+  name: "Alison Blaine"
+  picture: images/bio-photo.jpg
+  email: ablaine@ncsu.edu
   twitter:
   links:
     - title:
