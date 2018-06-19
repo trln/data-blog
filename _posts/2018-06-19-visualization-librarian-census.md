@@ -19,6 +19,7 @@ tags:
 
 <img style=	"float: right; margin-left: 20px;" src=	"../images/VisLibCensus_files/Throwback.png" width=300 alt=	"Screenshot of blog post announcing my position"></img>
 
+![](../images/VisLibCensus_files/Throwback.png)
 Six years ago, almost to the day, I joined Duke University Libraries as
 their first Data Visualization Coordinator. At the time, it was unusual
 for libraries to be able to offer targeted support for data
