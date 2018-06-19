@@ -2,7 +2,7 @@
 title: "Visualization Librarian Census"
 author:
   name: Angela Zoss
-  picture: ../images/zoss-angela-2018.jpg
+  picture: images/zoss-angela-2018.jpg
   email: angela.zoss@duke.edu
   links:
     - title: Email
@@ -17,7 +17,7 @@ tags:
 ---
 
 
-<img style=	"float: right; margin-left: 20px;	" src=	"../images/VisLibCensus_files/Throwback.png" width=300 alt=	"Screenshot of blog post announcing my position">
+<img style=	"float: right; margin-left: 20px;" src=	"../images/VisLibCensus_files/Throwback.png" width=300 alt=	"Screenshot of blog post announcing my position"></img>
 
 Six years ago, almost to the day, I joined Duke University Libraries as
 their first Data Visualization Coordinator. At the time, it was unusual
