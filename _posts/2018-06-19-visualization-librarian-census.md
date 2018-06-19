@@ -14,6 +14,7 @@ tags:
   - survey
   - census
   - Duke
+comments: true
 ---
 
 Six years ago, almost to the day, I joined Duke University Libraries as
