@@ -102,14 +102,6 @@ author:
       url: https://www.twitter.com/Bigggggg_Al
       icon: fab fa-twitter-square
 
-author: 
-    name: Angela Zoss
-    picture: /images/zoss-angela-2018.jpg
-    email: angela.zoss@duke.edu
-    links: 
-      - title: Email
-        url: mailto:angela.zoss@duke.edu 
-        icon: fas fa-laptop 
     
 # Footer Links
 footer_links:
