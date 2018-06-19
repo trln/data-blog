@@ -2,7 +2,7 @@ Visualization Librarian Census
 ================
 Angela Zoss, Duke University Libraries
 
-<img style="float: right; margin-left: 20px;" src="VisLibCensus_files/Throwback.png" width=300 alt="Screenshot of blog post announcing my position">Six
+<img style="float: right; margin-left: 20px;" src="images/VisLibCensus_files/Throwback.png" width=300 alt="Screenshot of blog post announcing my position">Six
 years ago, almost to the day, I joined Duke University Libraries as
 their first Data Visualization Coordinator. At the time, it was unusual
 for libraries to be able to offer targeted support for data
@@ -33,9 +33,9 @@ First, to summarize the participants, I’ll share the institutions
 represented. We had participants from 30 different institutions,
 including several outside of the U.S.
 
-![](VisLibCensus_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](images/VisLibCensus_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
-![](VisLibCensus_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+![](images/VisLibCensus_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
 
 ## Job Titles
 
@@ -44,7 +44,7 @@ institutions were explicitly including the word “visualization” in job
 titles. Thirty-six per cent of the participants had job titles that
 explicitly included the word “visualization.”
 
-![](VisLibCensus_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](images/VisLibCensus_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
 
 ## Years in the Field
 
@@ -54,7 +54,7 @@ of library work for some time. Indeed, several participants have been
 unofficially tasked with visualization work for some time, though even
 official visualization work has been going on for many years.
 
-![](VisLibCensus_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
+![](images/VisLibCensus_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
 
 ## Job Activities
 
@@ -65,7 +65,7 @@ types of activities – consulting, short workshops, and non-library
 visualization projects – show up in the work of over half of the
 participants.
 
-![](VisLibCensus_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![](images/VisLibCensus_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
 
 ## Resources needed
 
@@ -76,7 +76,7 @@ direct mentions of a community of practice, participants look most for
 training, followed by shared instructional materials and shared
 techniques or best practices.
 
-![](VisLibCensus_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
+![](images/VisLibCensus_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
 
 ## Contact Preferences
 
@@ -85,7 +85,7 @@ method for contacting each other. The contact preferences showed that
 email may still be our best choice, followed by in-person meetings at
 conferences.
 
-![](VisLibCensus_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->
+![](images/VisLibCensus_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->
 
 ## Conferences
 
@@ -95,13 +95,13 @@ There is a skew toward IASSIST – unsuprising, given that I advertised to
 that group – but unfortunately there doesn’t seem to be a sweeping
 conference that everyone attends.
 
-![](VisLibCensus_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
+![](images/VisLibCensus_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
 
 ## Next Steps
 
 I’m happy to be able to share these results (finally), but I know that
 the next steps will have to come from the group. Maybe we can start
-building up from good models, like this new NC Data Interest Group.
+building up from good models, like the NC Data Interest Group.
 Earlier this month I taught my third year at NCSU’s Data Science and
 Visualization Institute for Librarians, which means we have three
 cohorts of librarians building data and visualization skills who may
