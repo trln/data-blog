@@ -131,4 +131,7 @@ ideas you have (angela \[dot\] zoss \[at\] duke \[dot\] edu), or if you
 have suggestions for a place where we could start having discussions,
 I’d love to hear about it\!
 
-*Editor's note: To sign up for the NC Data Interest Group (NCDIG) google group, please [visit this page](https://groups.google.com/forum/#!forum/ncdig).*
+*Editor's note:
+NC Data Interest Group (NCDIG) is an informal group of librarians and library staff for whom data is a part of their position or have an interest (e.g., data management, data visualization, data analysis and computation, institutional repositories, GIS/mapping data, data literacy, and/or programming/coding) across all subjects/disciplines and across North Carolina.  NCDIG will provide an online discussion forum to support members across a wide range of roles with data and to foster opportunities to interact more regularly to support collective learning - sharing advice, best practices, collaborative problem-solving, announce training opportunities and events, and build relationships.
+
+To sign up for the NC Data Interest Group (NCDIG) Google group, please [visit this page](https://groups.google.com/forum/#!forum/ncdig).*
