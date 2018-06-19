@@ -16,8 +16,8 @@
 #theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "NC Data Interest Group Blog"
-description: "A blog for data professionals to share information, useful tips and all things related to working with data."
+title: "TRLN Data Blog"
+description: "A blog for data professionals in the Triangle Research Libraries Network (TRLN) and beyond to share information, useful tips and all things related to working with data."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://trln.github.io/data-blog"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -90,8 +90,8 @@ author:
   name: Alison Blaine
   picture: /images/bio-photo.jpg
   email: ablaine@ncsu.edu
-  twitter: 
-  links: 
+  twitter:
+  links:
     - title: Github
       url: https://github.com/alblaine
       icon: fab fa-github-square
@@ -102,7 +102,7 @@ author:
       url: https://www.twitter.com/Bigggggg_Al
       icon: fab fa-twitter-square
 
-    
+
 # Footer Links
 footer_links:
   - title: Feed
