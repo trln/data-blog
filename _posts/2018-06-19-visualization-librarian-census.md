@@ -18,7 +18,7 @@ community identify as “visualization” people. While we know that
 visualization services and visualization work in libraries, writ
 broadly, are on the rise, it’s hard to know how many people are really
 working in this space and what they are doing (or struggling to do). I
-advertised the Google form both to the IASSIST listserv and directly to
+advertised the Google form both to the [IASSIST](http://www.iassistdata.org/) listserv and directly to
 individuals I suspected might be interested in completing the form
 because of their focus on visualization.
 
@@ -101,9 +101,9 @@ conference that everyone attends.
 
 I’m happy to be able to share these results (finally), but I know that
 the next steps will have to come from the group. Maybe we can start
-building up from good models, like the NC Data Interest Group.
-Earlier this month I taught my third year at NCSU’s Data Science and
-Visualization Institute for Librarians, which means we have three
+building up from good models, like the NC Data Interest Group (NCDIG).
+Earlier this month I taught my third year at NCSU’s [Data Science and
+Visualization Institute for Librarians](https://www.lib.ncsu.edu/data-science-and-visualization-institute), which means we have three
 cohorts of librarians building data and visualization skills who may
 also be looking for a community.
 
@@ -117,3 +117,7 @@ though, I’d love to know what we could do now\! Please do send me any
 ideas you have (angela \[dot\] zoss \[at\] duke \[dot\] edu), or if you
 have suggestions for a place where we could start having discussions,
 I’d love to hear about it\!
+
+##### Editor's note: 
+
+To sign up for the NC Data Interest Group (NCDIG) google group, please [visit this website](https://groups.google.com/forum/#!forum/ncdig).
