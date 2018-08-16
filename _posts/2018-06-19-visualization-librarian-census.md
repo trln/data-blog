@@ -82,7 +82,7 @@ types of activities – consulting, short workshops, and non-library
 visualization projects – show up in the work of over half of the
 participants.
 
-![](../images/VisLibCensus_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![](./../images/VisLibCensus_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
 
 ## Resources needed
 
