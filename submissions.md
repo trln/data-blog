@@ -1,11 +1,3 @@
-
----
-title: Submissions
-layout: default
-permalink: /submissions/
-entries_layout: list
----
-
 ### How to Submit a Post
 
 We welcome submissions related to the following:
@@ -23,4 +15,4 @@ We welcome submissions related to the following:
 
 
 ## How to Submit
-* email your submission to ablaine@ncsu.edu
+* email your submission to [ablaine@ncsu.edu](mailto:ablaine@ncsu.edu)
