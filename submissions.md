@@ -1,5 +1,3 @@
-### How to Submit a Post
-
 We welcome submissions related to the following:
 
 * how you solved a problem or challenge related to working with data
