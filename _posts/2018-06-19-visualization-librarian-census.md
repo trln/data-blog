@@ -8,6 +8,9 @@ author:
     - title: Email
       url: mailto:angela.zoss@duke.edu
       icon: fas fa-laptop
+categories:
+  - Data Visualization
+  - Survey
 tags:
   - data visualization
   - viz librarian
