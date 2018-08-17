@@ -51,9 +51,9 @@ represented. We had participants from 30 different institutions,
 including several outside of the U.S.
 
 
-![](../images/VisLibCensus_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](./../images/VisLibCensus_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
-![](../images/VisLibCensus_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+![](./../images/VisLibCensus_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
 
 ## Job Titles
 
