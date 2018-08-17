@@ -53,7 +53,7 @@ including several outside of the U.S.
 
 ![](https://github.com/trln/data-blog/blob/master/images/VisLibCensus_files/figure-gfm/unnamed-chunk-8-1.png?raw=true)<!-- -->
 
-![](./../images/VisLibCensus_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+![](https://github.com/trln/data-blog/blob/master/images/VisLibCensus_files/figure-gfm/unnamed-chunk-10-1.png?raw=true)<!-- -->
 
 ## Job Titles
 
@@ -62,7 +62,7 @@ institutions were explicitly including the word “visualization” in job
 titles. Thirty-six per cent of the participants had job titles that
 explicitly included the word “visualization.”
 
-![](../images/VisLibCensus_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](https://github.com/trln/data-blog/blob/master/images/VisLibCensus_files/figure-gfm/unnamed-chunk-12-1.png?raw=true)<!-- -->
 
 ## Years in the Field
 
@@ -72,7 +72,7 @@ of library work for some time. Indeed, several participants have been
 unofficially tasked with visualization work for some time, though even
 official visualization work has been going on for many years.
 
-![](../images/VisLibCensus_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
+![](https://github.com/trln/data-blog/blob/master/images/VisLibCensus_files/figure-gfm/unnamed-chunk-14-1.png?raw=true)<!-- -->
 
 ## Job Activities
 
@@ -83,7 +83,7 @@ types of activities – consulting, short workshops, and non-library
 visualization projects – show up in the work of over half of the
 participants.
 
-![](./../images/VisLibCensus_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![](https://github.com/trln/data-blog/blob/master/images/VisLibCensus_files/figure-gfm/unnamed-chunk-15-1.png?raw=true)<!-- -->
 
 ## Resources needed
 
@@ -94,7 +94,7 @@ direct mentions of a community of practice, participants look most for
 training, followed by shared instructional materials and shared
 techniques or best practices.
 
-![](../images/VisLibCensus_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
+![](https://github.com/trln/data-blog/blob/master/images/VisLibCensus_files/figure-gfm/unnamed-chunk-19-1.png?raw=true)<!-- -->
 
 ## Contact Preferences
 
@@ -103,7 +103,7 @@ method for contacting each other. The contact preferences showed that
 email may still be our best choice, followed by in-person meetings at
 conferences.
 
-![](../images/VisLibCensus_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->
+![](https://github.com/trln/data-blog/blob/master/images/VisLibCensus_files/figure-gfm/unnamed-chunk-20-1.png?raw=true)<!-- -->
 
 ## Conferences
 
@@ -113,7 +113,7 @@ There is a skew toward IASSIST – unsuprising, given that I advertised to
 that group – but unfortunately there doesn’t seem to be a sweeping
 conference that everyone attends.
 
-![](../images/VisLibCensus_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
+![](https://github.com/trln/data-blog/blob/master/images/VisLibCensus_files/figure-gfm/unnamed-chunk-23-1.png?raw=true)<!-- -->
 
 ## Next Steps
 
