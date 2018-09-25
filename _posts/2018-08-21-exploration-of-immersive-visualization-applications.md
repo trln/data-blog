@@ -11,7 +11,7 @@ author:
 categories:
   - Data Visualization
   - Virtual Reality
-  - Immersive Analytics 
+  - Immersive Analytics
 tags:
   - data visualization
   - vr
@@ -88,9 +88,8 @@ Virtualitics presented the most challenging learning curve given the intricacies
 
 With regard to aesthetics and novel use of VR, LookVR was the most enjoyable and engaging to work with. This application provided some novel ways of experiencing data such as stacks of banknotes representing monetary spending scaled to real-life and the ability to blow up the size of a bar chart and climb the tallest bar like a rock wall and view the data from the perspective of a peak. These features, while maybe gimmicky, did provide the most instances of excitement from testers. While not drab or unenjoyable, Virtualitics and 3Data both provided generic futuristic-looking environments or virtual boardrooms in which you could manipulate and create 3D visualizations.
 
-### Takeaways 
+### Takeaways
 
 Our experience testing these three applications provided some insight into the nascent field of general-use immersive visualization technologies. Based on our evaluation we determined that each application provided usefulness for varying needs. With its array of visualization types and analytical tools, Virtualitics may serve as an appropriate application for the data scientist or researcher initially exploring and cleaning a dataset. 3Data provided a more general visual exploration of data that may be more appropriate for multiple users to analyze and derive further insight from a prepared dataset. Finally, an application like LookVR may serve as a great tool for presenting data in an engaging way to a broad audience in a virtual environment.
 
 Personally I do not find these applications to be necessarily appropriate for general use at the current moment. However, I do believe the analytically focused applications could hold significance to researchers with more specialized analytical and visualization needs – mainly people who have data with multiple variables. While our research community definitely contains many individuals with these needs we did not identify an essential use-case to justify the further step of licensing and supporting this niche software for patron use in the library. We will continue to monitor the environment and watch the development of each of the platforms we tested.
-
