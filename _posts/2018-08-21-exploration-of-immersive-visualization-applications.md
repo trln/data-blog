@@ -2,7 +2,7 @@
 title: "An Exploration of General-Use Immersive Visualization Applications"
 author:
   name: Walt Gurley
-  picture: images/gurley-walt-2018.jpg
+  picture: images/gurley-walt-2018.png
   email: jwgurley@ncsu.edu
   links:
     - title: Email
